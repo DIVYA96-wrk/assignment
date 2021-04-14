@@ -1,0 +1,31 @@
+
+.head{
+    background-color: #5e068a ;
+    color: white;
+    font-family:sans-serif;
+	font-size: 13px;
+	font-weight: 400;
+    font-size:80%;
+    
+    
+}
+    
+.one{
+    padding-top: 8px;
+    position: relative;
+    left:90px;
+    
+}
+.two{
+    padding-top: 8px;
+    position: relative;
+    left:40px;
+    
+}
+.three{
+    justify-content: end;
+}
+.NAVSECT{
+    font-weight: 500;
+    padding-left: 30px;
+}

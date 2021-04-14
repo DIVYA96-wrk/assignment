@@ -1,0 +1,151 @@
+img{
+    width: 450px;
+    position: relative;
+    left:200px;
+    height: 650px;
+
+    
+}
+
+
+.inside{
+    color: #262626;
+    font-size: 10px;
+
+}
+.one
+{
+    margin-top: 25px;
+}
+
+.two{
+    background-color: rgb(255, 255, 255);
+    height:400px;
+    
+    width:350px;
+    position: relative;
+    top:55px;
+    right: 20px;
+    border: 0.1px solid #dbdbdb;
+    
+}
+.zero{
+    
+    width: 100%;
+    height:700px;
+    
+}
+.bttn{
+    background-color: none;
+    border: none;
+    background:none;
+    color:#385185;
+}
+.forgot{
+    color:#00376b;
+    background-color: none;
+    border: none;
+    background:none;
+    font-size: 12px;
+    position: relative;
+    left:90px;
+
+}
+.three{
+    background-color: rgb(255, 255, 255);
+    border: 0.1px solid #dbdbdb;
+    height:65px;
+    
+    width:350px;
+    position: relative;
+    top:70px;
+    right:20px;
+    
+}
+.sign{
+    color:#0095f6;
+    background-color: none;
+    border: none;
+    background:none;
+    font-size: 14px;
+    font-weight: 600;
+    
+}
+.four{
+    position: relative;
+    width:350px;
+    top:85px;
+    right:30px;
+
+}
+.img{
+    width:130px;
+    height:40px;
+    position: relative;
+    left:30px;
+    
+}
+
+.five{
+    width: 500px;
+    font-size: 12px;
+    color: #8e8e8e;
+    display: flex;
+    justify-content: space-around;
+
+    
+}
+.eight{
+    height:50px;
+}
+.trial{
+    color: #8e8e8e;
+}
+.six{
+    color:#8e8e8e;
+    
+}
+#SEV{
+    border:0px;
+    outline: 0px;
+    width:100px;
+    color:#8e8e8e;
+    position: relative;
+    left:100px;
+ 
+}
+.screen{
+    width:250px;
+    position:absolute;
+    top:120px;
+    position:absolute;
+    left:380px;
+    height:470px;
+    border: 2px solid black;
+}
+.insta{
+    width:170px;
+    height:90px;
+    position: relative;
+    left:65px;
+    top:10px;
+    
+   
+}
+
+.formi{
+    font-size: 12px;
+}
+.eight{
+    height:150px;
+}
+.last{
+    position: relative;
+    right:40px;
+}
+.list{
+    position: relative;
+    left: 25px;
+}
+
+
